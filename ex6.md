@@ -120,7 +120,7 @@ function writeDate(countDown, timeID){
 }
 ```
 
-13) Αποθηκεύουμε τις αλλαγές μαςστο αρχείο `xmasscript.js` και επιστρέφουμε στο `countdown.html`
+13) Αποθηκεύουμε τις αλλαγές μας στο αρχείο `xmasscript.js` και επιστρέφουμε στο `countdown.html`
 
 14) Μένει να βάλουμε μια εικόνα! Κατεβάζουμε αυτήν [εδώ](https://raw.githubusercontent.com/SheSharpGr/intro-to-webdev-part2/master/resources/xmasslogo.png) και την αποθηκεύουμε μέσα στο φάκελο `img` του `SheSharp_Demo`.
 
