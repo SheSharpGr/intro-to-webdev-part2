@@ -4,7 +4,7 @@
 
 Σε αυτήν την άσκηση θα χρησιμοποιήσουμε τη σελίδα από το προηγούμενο workshop για να δημιουργήσουμε μια αντίστροφη μέτρηση για τα Χριστούγεννα!
 
-1) Κατεβάζουμε το αρχείο `SheSharp_Demo.zip`.
+1) Κατεβάζουμε το αρχείο [`SheSharp_Demo.zip`](https://github.com/SheSharpGr/intro-to-webdev-part2/blob/master/resources/SheSharp_Demo.zip?raw=true).
 
 2) Αποσυμπιέζουμε το φάκελο, προτιμότερα στην `Επιφάνεια Εργασίας`.
 
@@ -122,7 +122,7 @@ function writeDate(countDown, timeID){
 
 13) Αποθηκεύουμε τις αλλαγές μαςστο αρχείο `xmasscript.js` και επιστρέφουμε στο `countdown.html`
 
-14) Μένει να βάλουμε μια εικόνα! Κατεβάζουμε αυτήν εδώ και την αποθηκεύουμε μέσα στο φάκελο `img` του `SheSharp_Demo`.
+14) Μένει να βάλουμε μια [εικόνα](https://raw.githubusercontent.com/SheSharpGr/intro-to-webdev-part2/master/resources/xmasslogo.png)! Κατεβάζουμε αυτήν εδώ και την αποθηκεύουμε μέσα στο φάκελο `img` του `SheSharp_Demo`.
 
 15) Προσθέτουμε τον εξής κώδικα κάτω από την αντίστροφη μέτρηση!
 ```HTML
