@@ -19,7 +19,7 @@
 </html> 
 ```
 
-3) Φτιάχνουμε έναν υποφάκελο μέσα στον `ex5` με το όνομα `images` και βάζουμε μέσα 3 εικόνες πχ (html.png, css.png, js.png).
+3) Φτιάχνουμε έναν υποφάκελο μέσα στον `ex5` με το όνομα `images` και βάζουμε μέσα 3 εικόνες: [html.png](https://raw.githubusercontent.com/SheSharpGr/intro-to-webdev-part2/master/resources/html.png), [css.png](https://raw.githubusercontent.com/SheSharpGr/intro-to-webdev-part2/master/resources/css.png) και [js.png](https://raw.githubusercontent.com/SheSharpGr/intro-to-webdev-part2/master/resources/js.png).
 
 4) Μέσα στο `body` γράφουμε το παρακάτω:
 ```HTML
